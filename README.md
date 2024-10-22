@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <h2 align="center">⚡ Frontend ⚡</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vue" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap,vue" /><br>
 </div>
 <div align="center">
     <h2 align="center">⚡ Backend ⚡</h2>
