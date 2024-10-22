@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate Fullstack Developer from Indonesia 🇮🇩</h
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
