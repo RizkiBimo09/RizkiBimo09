@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/rizki-bimo-wijaya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.canva.com/design/DAGKXrARwQA/BoxMTn3xIajE6RuOD1mnxg/edit?utm_content=DAGKXrARwQA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+  <a href="https://rbw.my.canva.site/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
